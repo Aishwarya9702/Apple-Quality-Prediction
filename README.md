@@ -1,1 +1,2 @@
 # Apple-Quality-Prediction
+We used the 'Apple Quality' dataset, which includes various attributes such as size, weight, sweetness, acidity, and juiciness. After applying preprocessing techniques, we trained several data mining models, including Decision Tree Classifier, K-NN (k-Nearest Neighbors) Classifier, and Gaussian Naive Bayes Classifier. We compared their performance using accuracy and precision metrics to determine the best model for predicting apple quality based on these attributes.
